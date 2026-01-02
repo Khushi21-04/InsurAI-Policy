@@ -90,13 +90,12 @@ Protected routes for employees and users
 🛠️ Tech Stack
 Frontend
 
-React.js
+Angular
 
 TypeScript
 
 Tailwind CSS
 
-React Router
 
 Axios
 
@@ -137,7 +136,7 @@ InsurAI-Project
 │   ├── security
 │   └── dto
 │
-├── frontend
+├── frontend 
 │   ├── pages
 │   ├── components
 │   ├── services
@@ -173,7 +172,7 @@ http://localhost:8080
 Frontend (React)
 cd frontend
 npm install
-npm run dev
+npm run dev /ng serve
 
 
 Frontend runs on:
@@ -208,7 +207,7 @@ Advanced analytics dashboard
 
 👨‍🎓 Developer
 
-Pavan Kalyan
+Satyarapu Khushi
 B.Tech – Computer Science Engineering
 Business Development Associate
 Aspiring Full Stack Java Developer
